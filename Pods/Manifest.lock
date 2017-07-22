@@ -1,0 +1,35 @@
+PODS:
+  - CocoaAsyncSocket (7.6.1)
+  - CocoaLumberjack (3.2.0):
+    - CocoaLumberjack/Default (= 3.2.0)
+    - CocoaLumberjack/Extensions (= 3.2.0)
+  - CocoaLumberjack/Default (3.2.0)
+  - CocoaLumberjack/Extensions (3.2.0):
+    - CocoaLumberjack/Default
+  - KissXML (5.2.0)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - WCDB (1.0.2)
+  - XMPPFramework (3.7.0):
+    - CocoaAsyncSocket (~> 7.6.0)
+    - CocoaLumberjack
+    - KissXML (~> 5.2.0)
+
+DEPENDENCIES:
+  - Masonry
+  - MJExtension
+  - WCDB
+  - XMPPFramework
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 7eadd3f59e1a6c84e2aefc93e9ff7b55156fe174
+  CocoaLumberjack: 9b4aed7073d242f29cc2f62068d995faf67f703a
+  KissXML: 1c1eeeb6b94e4522cd2f2373e5d0d03c9227738f
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  WCDB: 78aff489677b50a4f2ebbf4df4bab5116c9665b1
+  XMPPFramework: 6f99ad1afcdb0cdbec7192a8e4c542c3fc3de6f8
+
+PODFILE CHECKSUM: 9e606f2372cdce2fcf2b658a7ecb46ce7352f41b
+
+COCOAPODS: 1.2.1
